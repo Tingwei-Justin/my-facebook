@@ -1,3 +1,15 @@
+1. React + React Hooks
+2. React context API => Redux pattern
+3. Material UI
+4. Flexbox
+5. FIrebase's firestorm realtime db
+6. Firebase hosting
+7. Firebase Google Authentication (login)
+8. React flip move
+
+command + p: search file 
+1. copy the firebase config
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
