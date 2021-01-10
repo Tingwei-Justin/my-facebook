@@ -80,3 +80,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+https://drive.google.com/uc?export=view&id=10k7S8NrkccKluDyFLK86D9TS2iHxcaoQ
+https://drive.google.com/uc?export=view&id=1wjd_UO_l9YQAb30VAXu6pZdZensYz6f9
+https://drive.google.com/uc?export=view&id=1sMPcEJ2dOy1TEVxKE44jAR4YeimK0YhA
+https://drive.google.com/uc?export=view&id=1ozYJ-ugBTGzHxKGp5L49BidpOXdwHNKo
+https://drive.google.com/uc?export=view&id=1Z0BsBMr9Qrqbqsq5o5apj40C9r6UrPRb
+
+https://drive.google.com/uc?export=view&id=17da8z8wKgLNZlMhSS8w1sjtVKjPys9Js （tim)
+https://drive.google.com/uc?export=view&id=1IKOH9gyl-b45oo0ToZLF-gHonszI8fAH
+
+https://drive.google.com/uc?export=view&id=1uOR7WXJ-22J2bir6hjoLegqpNLtgQv21
+
+
+https://drive.google.com/uc?export=view&id=1dKkEmT06VPrP674gvRasujjjeZsnJN_p
+https://drive.google.com/uc?export=view&id=1cNe_g0V_CYknSy7maQhpmmv1mng_Zh6J
+https://drive.google.com/uc?export=view&id=1bv0fN8aMZlfTSOJAeKbmRB1Lef0isofJ

@@ -29,9 +29,17 @@
 }
 
 /* q */
-    .messageSender__top > form > button {
-        display: none;
-    }
+.messageSender__top > form > button {
+    /* display: none; */
+    background-color: #2e81f4;
+    color:  white;
+    width: 100px;
+    font-size: medium;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+
+}
 /* } */
 
 .messageSender__input{

@@ -18,7 +18,7 @@ const MessageSender = () => {
         // 为了避免提交后去刷新 
         e.preventDefault();
         // some clevel db stuff
-        if (input != "" || imageUrl != "") {
+        if (input !== "" || imageUrl !== "") {
             db.collection('posts').add({
                 message: input,
                 timestamp: firebase.firestore.FieldValue.serverTimestamp(),

@@ -12,7 +12,7 @@ function App() {
   const { user } = state;
 
   useEffect(() => {
-    document.title = "Fake Facebook - Justin"
+    document.title = "Facebook"
   }, [])
 
   return (
